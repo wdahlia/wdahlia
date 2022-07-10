@@ -6,7 +6,7 @@
 <div align=center> 
   
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23040404&title_bg=%23BABABA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wdahlia/wdahlia/master/README.md&count_bg=%23040404&title_bg=%23BABABA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](README.md)
  
   ## ⚡️ 𝕄𝕐 𝕊ℕ𝕊 ⚡️
 [![SoundCloud Badge](http://img.shields.io/badge/soundcloud-white?style=flat&logo=soundcloud&logoColor=FF3300link=https://soundcloud.com/only-ryu/)](https://soundcloud.com/only-ryu/) [![instagram](http://img.shields.io/badge/instagram-blueviolet?style=flat&logo=instagram&logoColor=E4405F&link=https://www.instagram.com/wlstnrldl/)](https://www.instagram.com/wlstnrldl/) 
@@ -18,7 +18,7 @@
 
  <br> 
 
-  ## 💬 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=40&duration=5002&color=02080B&center=true&vCenter=true&lines=%F0%9F%92%AC+About+Me)](https://git.io/typing-svg)
 ```
   
   Hi👋🏻, I'm JinSook Ryu. WELCOME to my profile! 
