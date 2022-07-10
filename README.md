@@ -6,15 +6,14 @@
 <div align=center> 
   
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23CAB7F8&title_bg=%23B3A8D8&icon=&icon_color=%23060606&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23040404&title_bg=%23BABABA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
   ## ⚡️ 𝕄𝕐 𝕊ℕ𝕊 ⚡️
-[![SoundCloud Badge](http://img.shields.io/badge/soundcloud-orange?style=flat&logo=soundcloud&logoColor=FF3300link=https://soundcloud.com/only-ryu/)](https://soundcloud.com/only-ryu/) [![instagram](http://img.shields.io/badge/instagram-blueviolet?style=flat&logo=instagram&logoColor=E4405F&link=https://www.instagram.com/wlstnrldl/)](https://www.instagram.com/wlstnrldl/) 
+[![SoundCloud Badge](http://img.shields.io/badge/soundcloud-white?style=flat&logo=soundcloud&logoColor=FF3300link=https://soundcloud.com/only-ryu/)](https://soundcloud.com/only-ryu/) [![instagram](http://img.shields.io/badge/instagram-blueviolet?style=flat&logo=instagram&logoColor=E4405F&link=https://www.instagram.com/wlstnrldl/)](https://www.instagram.com/wlstnrldl/) 
 [![notion](http://img.shields.io/badge/notion-white?style=flat&logo=notion&logoColor=black&link=https://www.notion.so/d-a-h-l-i-a-358ddc3523db454abc268152b011d73b/)](https://www.notion.so/d-a-h-l-i-a-358ddc3523db454abc268152b011d73b)
 [![velog](http://img.shields.io/badge/Velog-black?style=flat&logo=velog&logoColor=66CDAA&link=https://velog.io/@wdahlia)](https://velog.io/@wdahlia)
 [![github](http://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white&link=https://github.com/wdahlia)](https://github.com/wdahlia)
-[![gmail](http://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&link=https://www.gmail.com/)](https://github.com/wdahlia)
+[![gmail](http://img.shields.io/badge/Gmail-FFDEAD?style=flat&logo=gmail&link=https://www.gmail.com/)](https://github.com/wdahlia)
 
 
  <br> 
@@ -35,7 +34,7 @@
 <br>
 
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdahlia&show_icons=true&theme=dark&title_color=663399&icon_color=ADFF2F&text_color=FFFFFF&bg_color=BC99F1)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdahlia&show_icons=true&theme=dark&title_color=BC99F1&icon_color=FFF0F5&text_color=FFFFFF&bg_color=000000)
 
 
 
