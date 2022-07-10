@@ -10,7 +10,7 @@
  
   ## ⚡️ 𝕄𝕐 𝕊ℕ𝕊 ⚡️
 [![SoundCloud Badge](http://img.shields.io/badge/soundcloud-white?style=flat&logo=soundcloud&logoColor=FF3300link=https://soundcloud.com/only-ryu/)](https://soundcloud.com/only-ryu/) [![instagram](http://img.shields.io/badge/instagram-blueviolet?style=flat&logo=instagram&logoColor=E4405F&link=https://www.instagram.com/wlstnrldl/)](https://www.instagram.com/wlstnrldl/) 
-[![notion](http://img.shields.io/badge/notion-white?style=flat&logo=notion&logoColor=black&link=https://www.notion.so/d-a-h-l-i-a-358ddc3523db454abc268152b011d73b/)](https://www.notion.so/d-a-h-l-i-a-358ddc3523db454abc268152b011d73b)
+[![notion](http://img.shields.io/badge/notion-white?style=flat&logo=notion&logoColor=black&link=https://tungsten-felidae-9bc.notion.site/d-a-h-l-i-a-358ddc3523db454abc268152b011d73b/)](https://tungsten-felidae-9bc.notion.site/d-a-h-l-i-a-358ddc3523db454abc268152b011d73b)
 [![velog](http://img.shields.io/badge/Velog-black?style=flat&logo=velog&logoColor=66CDAA&link=https://velog.io/@wdahlia)](https://velog.io/@wdahlia)
 [![github](http://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white&link=https://github.com/wdahlia)](https://github.com/wdahlia)
 [![gmail](http://img.shields.io/badge/Gmail-FFDEAD?style=flat&logo=gmail&link=https://www.gmail.com/)](https://github.com/wdahlia)
