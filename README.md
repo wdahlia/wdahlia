@@ -23,7 +23,7 @@
   
   Hi👋🏻, I'm JinSook Ryu. WELCOME to my profile! 
   👩🏻‍🎓 I Graduate from Inha Univ. Global Finance & Banking
-  📓 I'm currently studying 'full-stack class customized to practice class' on a multi-campus.
+  📓 I'm currently studying 'full-stack class customized to practice' on a multi-campus.
   💛 I really like watching movie🎥, listening music🎶, reading books📚 and my dog🐶
   I'm trying my best to become a good developer👩🏻‍💻
   Please support my journey to become a developer THANK YOU 🙇🏻‍♀️
