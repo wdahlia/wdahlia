@@ -33,14 +33,10 @@
 <br>
 <br>
 
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdahlia&show_icons=true&theme=dark&title_color=BC99F1&icon_color=FFF0F5&text_color=FFFFFF&bg_color=000000)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlstnrldl)](https://solved.ac/wlstnrldl/)
 
-
-
+<br> 
 <br>
-
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?section=footer&color=000000&rotate=-15&fontColor=FFFFFF&text=github.com/wdahlia&fontSize=14&fontAlign=58&fontAlignY=50" />
 </p>
